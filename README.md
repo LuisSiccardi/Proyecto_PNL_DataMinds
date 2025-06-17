@@ -5,7 +5,7 @@ Técnicas del Procesamiento del Habla
 Mainero, Alejandro
 
 # GOOGLE COLAB 
-Enlace
+Enlace https://colab.research.google.com/drive/1xu1Qo0es6_xjeG-0rvw4MwoI4-6J3zSi?usp=sharing
 
 #  GRUPO DATAMINDS
 Ayán, Trinidad
